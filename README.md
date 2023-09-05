@@ -1,2 +1,2 @@
 # Lab-2
-my second website
+this is my second website
